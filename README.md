@@ -3,7 +3,7 @@
 # <a name="team-members"></a> Group Members 
 * [David Tran](https://github.com/davidtran20)
 * [Matthew Przybyla](https://github.com/mprzybyla123)
-* [Amber Whelpley] 
+* [Amber Whelpey] 
 * [Peter Byrd]
 
 ## Business Understanding 
